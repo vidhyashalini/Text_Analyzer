@@ -9,27 +9,17 @@ A simple Python program to analyze text for word count, case conversion, and pal
 
 🚀 How to Use
 1️⃣ Clone the Repository
-bash
-Copy
-Edit
 git clone https://github.com/your-username/Text-Analyzer.git
 cd Text-Analyzer
 2️⃣ Run the Script
 Make sure you have Python installed (version 3.x recommended). Run the script using:
-
-bash
-Copy
-Edit
 python Text_Analyzer.py
 3️⃣ Enter Text for Analysis
 When prompted, enter a text or sentence, and the script will display analysis results.
 
 📸 Example Output
-plaintext
-Copy
-Edit
-Enter a text for analysis: madam
 
+Enter a text for analysis: madam
 Text Analysis Results:
 ---------------------
 Total Characters: 5
@@ -40,14 +30,11 @@ Title Case: Madam
 Reversed Text: madam
 Palindrome Check: Yes, it's a palindrome!
 🛠 Requirements
-Python 3.x
+Python 
 
 No additional libraries required
 
 📌 File Structure
-scss
-Copy
-Edit
 📂 Text-Analyzer
  ┣ 📜 README.md
  ┣ 📜 .gitignore
