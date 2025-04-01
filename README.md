@@ -20,6 +20,7 @@ When prompted, enter a text or sentence, and the script will display analysis re
 📸 Example Output
 
 Enter a text for analysis: madam
+
 Text Analysis Results:
 ---------------------
 Total Characters: 5
